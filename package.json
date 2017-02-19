@@ -1,0 +1,23 @@
+{
+  "name": "react-native-taobao-detail",
+  "version": "0.0.1",
+  "description": "a view looks like detail page of taobao mobile app",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poberwong/react-native-taobao-detail.git"
+  },
+  "keywords": [
+    "taoba",
+    "detail"
+  ],
+  "author": "poberwong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poberwong/react-native-taobao-detail/issues"
+  },
+  "homepage": "https://github.com/poberwong/react-native-taobao-detail#readme"
+}
